@@ -8,11 +8,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Data Science and Data Analytics Portfolio
 
 ## Project 1
+Talking about the first Project
 
 
 
 ## Project 2
-
+here is the second one!
 
 ## Project 3
 
