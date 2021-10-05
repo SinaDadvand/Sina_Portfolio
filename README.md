@@ -2,7 +2,7 @@
 Data Science and Data Analytics Portfolio
 
 ## Project 1
-###[Text Analysis with TF-IDF Score](https://github.com/SinaDadvand/Article_Categorization_TF-IDF/)
+### [Text Analysis with TF-IDF Score](https://github.com/SinaDadvand/Article_Categorization_TF-IDF/)
 In this Python project, a subset of text data from different news categories is analyzed and categorized using the TF-IDF scoring method.
 
 ## Project 2
