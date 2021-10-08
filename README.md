@@ -1,4 +1,4 @@
-# Sina_Portfolio
+# Sina Dadvand Kouhi
 Data Science and Data Analytics Portfolio
 
 ## Project 1
