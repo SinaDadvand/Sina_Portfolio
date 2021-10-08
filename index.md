@@ -8,36 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Data Science and Data Analytics Portfolio
 
 ## Project 1
-Talking about the first Project
-
-
+### [Text Analysis with TF-IDF Score](https://github.com/SinaDadvand/Article_Categorization_TF-IDF/)
+In this Python project, a subset of text data from different news categories is analyzed and categorized using the TF-IDF scoring method.
 
 ## Project 2
-here is the second one!
+### [Ensemble Method of Classification models for breast cancer dataset](https://github.com/SinaDadvand/Ensemble_BreastCancer)
+For this R-markdown project, we are creating an Ensemble of models to distinguish between Benign and Malignant cancer cases.
 
-## Project 3
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
