@@ -16,6 +16,10 @@ In this Python project, a subset of text data from different news categories is 
 For this R-markdown project, we are creating an Ensemble of models to distinguish between Benign and Malignant cancer cases.
 
 
+## Project 3
+### [Classification for Machine Status](https://github.com/SinaDadvand/Machine-State-Classification-Pump-)
+For this Binary Classification Python project, we have used a dataset consisiting of Sensor data to predict the state of a Pump as Normal or Otherwise.
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
